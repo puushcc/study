@@ -1,2 +1,2 @@
 # study
-学习笔记
+RabbitMQDemo  Rabbit学习笔记
