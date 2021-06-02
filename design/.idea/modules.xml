@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/single/single.iml" filepath="$PROJECT_DIR$/single/single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/并发多线程/并发多线程.iml" filepath="$PROJECT_DIR$/并发多线程/并发多线程.iml" />
     </modules>
   </component>
 </project>
